@@ -1,0 +1,22 @@
+img {
+    width: 200px;
+    border-radius: 25px;
+    float: left;
+    margin-right: 10px;
+    object-fit: cover;
+  }
+  p.supub {
+    font-weight: bold;
+  }
+  video {
+    width: 500px;
+  }
+  ul.mylist {
+    list-style: circle;
+  }
+  span {
+    background-color: brown;
+  }
+  span.stop {
+    background-color: azure;
+  }
